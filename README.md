@@ -29,6 +29,13 @@ A Highscore screen was implemented
 ![menu](https://user-images.githubusercontent.com/58915587/102675882-c5446280-41a3-11eb-8947-fb097e3298a5.PNG)
 ![scoreboard](https://user-images.githubusercontent.com/58915587/102675893-cffef780-41a3-11eb-8783-f065518ed4e7.PNG)
 
+## Authors
+
+* **Hashem el Biali** - *Initial work* - [PurpleBooth](https://github.com/hashemthe1)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 
 
