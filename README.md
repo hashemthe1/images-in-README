@@ -23,7 +23,7 @@ More levels was made to the game making it more challinging.
 A Highscore screen was implemented
 
 
+## Scrennshots
 
-```
 
-### Screenshots
+
